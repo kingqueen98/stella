@@ -1,0 +1,5 @@
+{
+  "name": "The Daily Stars",
+  "description": "The Daily Stars is an astrology application that provides daily horoscopes, natal chart analysis, and AI-powered chat and image generation based on real planetary alignments, using the OpenRouter API.",
+  "requestFramePermissions": []
+}
