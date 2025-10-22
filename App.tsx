@@ -113,7 +113,8 @@ const App: React.FC = () => {
                     <main className="flex-grow">
                          {!apiKey && (
                             <div className="bg-yellow-900/50 border border-yellow-600 text-yellow-200 px-4 py-3 rounded-lg mb-6 text-center">
-                                Please enter your OpenRouter API key in the sidebar to begin.
+                                Please enter your OpenRouter API key in the sidebar to begin. 
+                                It is stored locally on your computer.
                             </div>
                         )}
                         {renderView()}
